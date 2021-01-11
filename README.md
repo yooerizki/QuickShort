@@ -1,14 +1,15 @@
-## Getting Started
+# Quick Short
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+### ALGORITMA PEMROGRAMAN ###
+## RECURSION (QUICK SORT) – MODUL 3 ##
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+KEGIATAN 1
+Program untuk menampilkan deret fibonacci menggunakan rekursi dan
+tanpa rekursi. Kemudian analisa perbedaan kompleksitas waktu antara dua
+program tersebut serta jelaskan kelebihan dan kekurangan menggunakan rekursi.
+KEGIATAN 2
+Sebuah array yang menyimpan data nama, kemudian urutkan menggunakan
+algoritma quick sort dengan menggunakan pivot bebas. Jelaskan alur dari
+algoritma quick sort kepada asisten (bukan membaca source code).

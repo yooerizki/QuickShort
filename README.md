@@ -1,7 +1,7 @@
 # Quick Short
 
 
-### ALGORITMA PEMROGRAMAN ###
+###### ALGORITMA PEMROGRAMAN ######
 ## RECURSION (QUICK SORT) – MODUL 3 ##
 
 
